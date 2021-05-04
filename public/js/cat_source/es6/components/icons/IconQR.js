@@ -1,7 +1,8 @@
+import React from 'react'
+
 const IconQR = ({
   width = '42',
   height = '42',
-  style,
   color1 = '#FAFAFA',
   color2 = '#FFFFFF',
 }) => {

@@ -1,3 +1,5 @@
+import React from 'react'
+
 import ProductionSummary from './ProductionSummary'
 import QualitySummaryTable from './QualitySummaryTable'
 import QualitySummaryTableOld from './QualitySummaryTableOldRevise'
